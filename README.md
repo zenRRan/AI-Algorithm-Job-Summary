@@ -9,3 +9,5 @@
 - 2.7 [招聘 | 百度NLP部（北京）急招实习生](https://mp.weixin.qq.com/s/3fxvojbadIKaHdZRpCvkQw)
 - 2.6 [招聘 | 百度-机器学习/数据挖掘/NLP-北京](https://mp.weixin.qq.com/s/6AaSRlod7kFeSCUpMRs6rQ)
 - 2.3 [招聘 | 「数说故事」- NLP算法工程师 - 社招-广州](https://mp.weixin.qq.com/s/PwIXUfm8jK-Ogq5ZkIPcTw)
+- [招聘 | 第四范式杭州项目NLP等实习生招聘](https://mp.weixin.qq.com/s/6EZl8_3-zDsXMAm4RFt5EA)
+- [招聘 | 达摩院CV研究实习生招聘-杭州-北京](https://mp.weixin.qq.com/s/1fspot_IKshxBm14KzmjhQ)
