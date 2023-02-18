@@ -1,5 +1,7 @@
 # AI-Algorithm-Job-Summary
 # 2023内推（日更...）
+- 2.18 [招聘 | 第四范式杭州项目NLP等实习生招聘](https://mp.weixin.qq.com/s/6EZl8_3-zDsXMAm4RFt5EA)
+- 2.18 [招聘 | 达摩院CV研究实习生招聘-杭州-北京](https://mp.weixin.qq.com/s/1fspot_IKshxBm14KzmjhQ)
 - 2.17 [招聘 | 小红书招聘NLP算法工程师（社招，预训练方向-北京-上海）](https://mp.weixin.qq.com/s/BmDo14pC685CGX4MVLlX-g)
 - 2.17 [招聘 | 百度 - 核心搜索部门 - 社招/校招](https://mp.weixin.qq.com/s/EEZ0BTPof3YS2PcAP_w7pw)
 - 2.16 [招聘 | 成都鱼泡科技 - NLP、语音、数据产品等岗位](https://mp.weixin.qq.com/s/Z80PYn4h_LH8RXQKRqr4BQ)
@@ -9,5 +11,3 @@
 - 2.7 [招聘 | 百度NLP部（北京）急招实习生](https://mp.weixin.qq.com/s/3fxvojbadIKaHdZRpCvkQw)
 - 2.6 [招聘 | 百度-机器学习/数据挖掘/NLP-北京](https://mp.weixin.qq.com/s/6AaSRlod7kFeSCUpMRs6rQ)
 - 2.3 [招聘 | 「数说故事」- NLP算法工程师 - 社招-广州](https://mp.weixin.qq.com/s/PwIXUfm8jK-Ogq5ZkIPcTw)
-- [招聘 | 第四范式杭州项目NLP等实习生招聘](https://mp.weixin.qq.com/s/6EZl8_3-zDsXMAm4RFt5EA)
-- [招聘 | 达摩院CV研究实习生招聘-杭州-北京](https://mp.weixin.qq.com/s/1fspot_IKshxBm14KzmjhQ)
