@@ -11,3 +11,8 @@
 - 2.7 [招聘 | 百度NLP部（北京）急招实习生](https://mp.weixin.qq.com/s/3fxvojbadIKaHdZRpCvkQw)
 - 2.6 [招聘 | 百度-机器学习/数据挖掘/NLP-北京](https://mp.weixin.qq.com/s/6AaSRlod7kFeSCUpMRs6rQ)
 - 2.3 [招聘 | 「数说故事」- NLP算法工程师 - 社招-广州](https://mp.weixin.qq.com/s/PwIXUfm8jK-Ogq5ZkIPcTw)
+
+
+---
+了解最新AI/NLP/招聘动态等，扫描二维码关注【深度学习自然语言处理】公众号即可
+![](img/公众号二维码.jpg)
