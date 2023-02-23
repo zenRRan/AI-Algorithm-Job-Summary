@@ -1,5 +1,7 @@
 # AI-Algorithm-Job-Summary
 # 2023内推（日更...）
+- 2.23 [招聘 | 小米-数据挖掘工程师-实习生-北京](https://mp.weixin.qq.com/s/st8T7n6hE7D7SaSGynjL-Q)
+- 2.23 [招聘 | 阿里巴巴淘系搜索算法团队-机器学习算法工程师-社招](https://mp.weixin.qq.com/s/e0wygyE0bpn8_4TauAS98w)
 - 2.22 [招聘 | 腾讯TEG机器学习平台预训练组实习生JD](https://mp.weixin.qq.com/s/mgUHycAfCGo16gGKiRMdBg)
 - 2.21 [招聘 | 58同城-NLP-知识图谱算法工程师-社招](https://mp.weixin.qq.com/s/dNimoglqy-j8ha_0zwgqVQ)
 - 2.20 [招聘 | 小红书社区搜索部-NLP、CV等算法实习生](https://mp.weixin.qq.com/s/EGp8O1UYfsV7IEr2REqO8A)
@@ -19,4 +21,5 @@
 
 ---
 了解最新AI/NLP/招聘动态等，扫描二维码关注【深度学习自然语言处理】公众号即可
-![](img/公众号二维码.jpg)
+<!--![](img/公众号二维码.jpg)-->
+<img src="img/公众号二维码.jpg" width = "200" height = "200" alt="每天推送NLP等先关知识~" align=center />
