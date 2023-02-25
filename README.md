@@ -1,5 +1,7 @@
 # AI-Algorithm-Job-Summary
 # 2023内推（日更...）
+- 2.24 [招聘 | 算法工程师等量化岗位-非凸科技-社招/校招-上海](https://mp.weixin.qq.com/s/Fc1TW846p1DQ8sndI_LSFg)
+- 2.24 [招聘 | 腾讯优图(深圳)实验室实习生招聘](https://mp.weixin.qq.com/s/_4ZeQoq_ch110iev78ZC9g)
 - 2.23 [招聘 | 小米-数据挖掘工程师-实习生-北京](https://mp.weixin.qq.com/s/st8T7n6hE7D7SaSGynjL-Q)
 - 2.23 [招聘 | 阿里巴巴淘系搜索算法团队-机器学习算法工程师-社招](https://mp.weixin.qq.com/s/e0wygyE0bpn8_4TauAS98w)
 - 2.22 [招聘 | 腾讯TEG机器学习平台预训练组实习生JD](https://mp.weixin.qq.com/s/mgUHycAfCGo16gGKiRMdBg)
