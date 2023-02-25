@@ -1,5 +1,7 @@
 # AI-Algorithm-Job-Summary
 # 2023内推（日更...）
+- 2.25 [招聘 | 国家电网-北京-2024电力设备认知智能技术研发实习生](https://mp.weixin.qq.com/s/a9jbhzAWWG_R8QAgydi_GQ)
+- 2.25 [招聘 | 上海人工智能实验室-“星启”青年人才引育计划正式发布！-深度学习-机器学习](https://mp.weixin.qq.com/s/KebQOOLEZun91p7ZGsaW4Q)
 - 2.24 [招聘 | 算法工程师等量化岗位-非凸科技-社招/校招-上海](https://mp.weixin.qq.com/s/Fc1TW846p1DQ8sndI_LSFg)
 - 2.24 [招聘 | 腾讯优图(深圳)实验室实习生招聘](https://mp.weixin.qq.com/s/_4ZeQoq_ch110iev78ZC9g)
 - 2.23 [招聘 | 小米-数据挖掘工程师-实习生-北京](https://mp.weixin.qq.com/s/st8T7n6hE7D7SaSGynjL-Q)
