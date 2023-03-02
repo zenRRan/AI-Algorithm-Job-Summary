@@ -1,5 +1,10 @@
 # AI-Algorithm-Job-Summary
-# 2023内推（日更...）
+## 2023内推（日更...）
+- 3.1 [招聘 | 抖音-推荐团队-推荐算法工程师](https://mp.weixin.qq.com/s/4QDegw93NQzJ2F_uJMOQ2w)
+- 3.1 [招聘 | 哈工大讯飞联合实验室-春季实习生-NLP](https://mp.weixin.qq.com/s/VPicbA2EuxD9EgoxECz2Kg)
+- 2.28 [招聘 | 百度-ACG-网盘技术部-NLP算法实习生](https://mp.weixin.qq.com/s/k6VLxH11Y9ahc1JHe6X5VQ)
+- 2.28 [招聘 | 小红书-内容安全算法团队专家-内推](https://mp.weixin.qq.com/s/N5ZEMHdfGEHFUasdKB5Bdw)
+- 2.26 [招聘 | 阿里达摩院决策智能实验室招聘全职/博后/实习生-杭州/西雅图-内推](https://mp.weixin.qq.com/s/fOjY49zkPFLJLbumEulzCw)
 - 2.25 [招聘 | 国家电网-北京-2024电力设备认知智能技术研发实习生](https://mp.weixin.qq.com/s/a9jbhzAWWG_R8QAgydi_GQ)
 - 2.25 [招聘 | 上海人工智能实验室-“星启”青年人才引育计划正式发布！-深度学习-机器学习](https://mp.weixin.qq.com/s/KebQOOLEZun91p7ZGsaW4Q)
 - 2.24 [招聘 | 算法工程师等量化岗位-非凸科技-社招/校招-上海](https://mp.weixin.qq.com/s/Fc1TW846p1DQ8sndI_LSFg)
