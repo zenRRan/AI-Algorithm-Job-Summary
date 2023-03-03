@@ -58,6 +58,7 @@
 - 2.8 [内推 | 腾讯广告-高级广告算法工程师招聘-深圳](https://mp.weixin.qq.com/s/91-BWaa7k640T9vDoMLYxQ)
 
 ### <span id="2023内推-杭州">杭州</span>
+- 3.3 [招聘 | 同花顺-问财团队-NLP/CV算法工程师-杭州内推](https://mp.weixin.qq.com/s/SY7DCtzmlR-luaXHcJHibQ)
 - 2.26 [招聘 | 阿里达摩院决策智能实验室招聘全职/博后/实习生-杭州/西雅图-内推](https://mp.weixin.qq.com/s/fOjY49zkPFLJLbumEulzCw)
 - 2.23 [招聘 | 阿里巴巴淘系搜索算法团队-机器学习算法工程师-社招](https://mp.weixin.qq.com/s/e0wygyE0bpn8_4TauAS98w)
 - 2.18 [招聘 | 第四范式杭州项目NLP等实习生招聘](https://mp.weixin.qq.com/s/6EZl8_3-zDsXMAm4RFt5EA)
@@ -80,13 +81,17 @@
 
 ## <span id="2023猎头招聘"> 2023猎头招聘 ⭐️高薪 (持续更新ing) </span>
 ### <span id="2023猎头招聘-北京">北京</span>
+- 3.3 [猎头招聘 | 机器学习研究员-沪/京/深/杭-60~200W+薪资](https://mp.weixin.qq.com/s/t0KlFoKlHm0DMReI6Em7OA)
 - 3.2 [猎头招聘 | NLP研究员-强化学习专家－需要6个博士/硕士-最高200W年薪-北京](https://mp.weixin.qq.com/s/LXG-dvvaedPmWB-hoEUQtg)
 
 ### <span id="2023猎头招聘-上海"></span>上海
+- 3.3 [猎头招聘 | 机器学习研究员-沪/京/深/杭-60~200W+薪资](https://mp.weixin.qq.com/s/t0KlFoKlHm0DMReI6Em7OA)
 
 ### <span id="2023猎头招聘-深圳"></span>深圳
+- 3.3 [猎头招聘 | 机器学习研究员-沪/京/深/杭-60~200W+薪资](https://mp.weixin.qq.com/s/t0KlFoKlHm0DMReI6Em7OA)
 
 ### <span id="2023猎头招聘-杭州"></span>杭州
+- 3.3 [猎头招聘 | 机器学习研究员-沪/京/深/杭-60~200W+薪资](https://mp.weixin.qq.com/s/t0KlFoKlHm0DMReI6Em7OA)
 
 ### <span id="2023猎头招聘-广州"></span>广州
 
