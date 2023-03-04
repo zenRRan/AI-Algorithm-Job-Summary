@@ -25,6 +25,7 @@
 
 ## <span id="2023内推">2023内推（日更...）</span>
 ### <span id="2023内推-北京">北京</span>
+- 3.4 [招聘 | 聆心智能-清华大学孵化-大模型-NLP-北京](https://mp.weixin.qq.com/s/6ZC7AbLkwQ3_-TdtpvEpvA)
 - 3.2 [招聘 | 腾讯-混元助手项目组-类ChatGPT产品-NLP-北京/深圳-内推](https://mp.weixin.qq.com/s/3zNKbx1VVHzUGeNhfRytPA)
 - 3.1 [招聘 | 抖音-推荐团队-推荐算法工程师](https://mp.weixin.qq.com/s/4QDegw93NQzJ2F_uJMOQ2w)
 - 3.1 [招聘 | 哈工大讯飞联合实验室-春季实习生-NLP](https://mp.weixin.qq.com/s/VPicbA2EuxD9EgoxECz2Kg)
@@ -81,10 +82,12 @@
 
 ## <span id="2023猎头招聘"> 2023猎头招聘 ⭐️高薪 (持续更新ing) </span>
 ### <span id="2023猎头招聘-北京">北京</span>
+- 3/4 [猎头招聘 | NLP/多模态/机器学习/AIGC四个岗位-京/沪-80~200+W](https://mp.weixin.qq.com/s/IDPha2GyLgJZaX5OCrxeGg)
 - 3.3 [猎头招聘 | 机器学习研究员-沪/京/深/杭-60~200W+薪资](https://mp.weixin.qq.com/s/t0KlFoKlHm0DMReI6Em7OA)
 - 3.2 [猎头招聘 | NLP研究员-强化学习专家－需要6个博士/硕士-最高200W年薪-北京](https://mp.weixin.qq.com/s/LXG-dvvaedPmWB-hoEUQtg)
 
 ### <span id="2023猎头招聘-上海"></span>上海
+- 3/4 [猎头招聘 | NLP/多模态/机器学习/AIGC四个岗位-京/沪-80~200+W](https://mp.weixin.qq.com/s/IDPha2GyLgJZaX5OCrxeGg)
 - 3.3 [猎头招聘 | 机器学习研究员-沪/京/深/杭-60~200W+薪资](https://mp.weixin.qq.com/s/t0KlFoKlHm0DMReI6Em7OA)
 
 ### <span id="2023猎头招聘-深圳"></span>深圳
