@@ -25,6 +25,8 @@
 
 ## <span id="2023内推">2023内推（日更...）</span>
 ### <span id="2023内推-北京">北京</span>
+- 3.9 [招聘 | 北京-内推-好未来-NLP算法实习生/博士后研究员](https://mp.weixin.qq.com/s/eWBL1K8l7FNPC3h6nnXIYg)
+- 3.9 [招聘 | 【急】百度-推荐算法策略工程师-社招-北京](https://mp.weixin.qq.com/s/9mTcqEvbsp3bL4esq3lXYg)
 - 3.8 [招聘 | 澜舟科技-北京-NLP-社招/实习-3个岗位-信息抽取/预训练方向](https://mp.weixin.qq.com/s/6vyKV1WcYuIl1q3xClsQtQ)
 - 3.8 [招聘 | 小红书-校招-NLP预训练方向-北京/上海](https://mp.weixin.qq.com/s/uAOC2vvkAy3HXS8jcACgYQ)
 - 3.7 [招聘 | 阿里达摩院-对话智能团队-研究实习生-北京/杭州-NLP/CV](https://mp.weixin.qq.com/s/Bi4DxqCszy-y3dcJ7JpdNA)
@@ -88,6 +90,7 @@
 
 
 ## <span id="2023猎头招聘"> 2023人才招聘 ⭐️高薪 (持续更新ing) </span>
+- 3.9 [人才招聘 | 深度学习研究员-北/上/深/杭-80~200w+](https://mp.weixin.qq.com/s/zFNLl8VIMBthsu6W6KYGwg)
 ### <span id="2023猎头招聘-北京">北京</span>
 - 3.8 [人才招聘 | NLP-预训练算法专家(P7)-80~200w+](https://mp.weixin.qq.com/s/u609Z72oHsd_CFp-070ndg)
 - 3.7 [人才招聘 | 量化研究员（机器学习方向）- 北/上/深/杭-80~200W+](https://mp.weixin.qq.com/s/5TxQFpNL2NebgIWDnScjww)
@@ -97,17 +100,20 @@
 - 3.2 [猎头招聘 | NLP研究员-强化学习专家－需要6个博士/硕士-最高200W年薪-北京](https://mp.weixin.qq.com/s/LXG-dvvaedPmWB-hoEUQtg)
 
 ### <span id="2023猎头招聘-上海"></span>上海
+- 3.9 [人才招聘 | 深度学习研究员-北/上/深/杭-80~200w+](https://mp.weixin.qq.com/s/zFNLl8VIMBthsu6W6KYGwg)
 - 3.8 [人才招聘 | NLP-预训练算法专家(P7)-80~200w+](https://mp.weixin.qq.com/s/u609Z72oHsd_CFp-070ndg)
 - 3.7 [人才招聘 | 量化研究员（机器学习方向）- 北/上/深/杭-80~200W+](https://mp.weixin.qq.com/s/5TxQFpNL2NebgIWDnScjww)
 - 3/4 [猎头招聘 | NLP/多模态/机器学习/AIGC四个岗位-京/沪-80~200+W](https://mp.weixin.qq.com/s/IDPha2GyLgJZaX5OCrxeGg)
 - 3.3 [猎头招聘 | 机器学习研究员-沪/京/深/杭-60~200W+薪资](https://mp.weixin.qq.com/s/t0KlFoKlHm0DMReI6Em7OA)
 
 ### <span id="2023猎头招聘-深圳"></span>深圳
+- 3.9 [人才招聘 | 深度学习研究员-北/上/深/杭-80~200w+](https://mp.weixin.qq.com/s/zFNLl8VIMBthsu6W6KYGwg)
 - 3.8 [人才招聘 | NLP-预训练算法专家(P7)-80~200w+](https://mp.weixin.qq.com/s/u609Z72oHsd_CFp-070ndg)
 - 3.7 [人才招聘 | 量化研究员（机器学习方向）- 北/上/深/杭-80~200W+](https://mp.weixin.qq.com/s/5TxQFpNL2NebgIWDnScjww)
 - 3.3 [猎头招聘 | 机器学习研究员-沪/京/深/杭-60~200W+薪资](https://mp.weixin.qq.com/s/t0KlFoKlHm0DMReI6Em7OA)
 
 ### <span id="2023猎头招聘-杭州"></span>杭州
+- 3.9 [人才招聘 | 深度学习研究员-北/上/深/杭-80~200w+](https://mp.weixin.qq.com/s/zFNLl8VIMBthsu6W6KYGwg)
 - 3.8 [人才招聘 | NLP-预训练算法专家(P7)-80~200w+](https://mp.weixin.qq.com/s/u609Z72oHsd_CFp-070ndg)
 - 3.7 [人才招聘 | 量化研究员（机器学习方向）- 北/上/深/杭-80~200W+](https://mp.weixin.qq.com/s/5TxQFpNL2NebgIWDnScjww)
 - 3.3 [猎头招聘 | 机器学习研究员-沪/京/深/杭-60~200W+薪资](https://mp.weixin.qq.com/s/t0KlFoKlHm0DMReI6Em7OA)
