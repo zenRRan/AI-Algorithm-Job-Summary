@@ -90,8 +90,8 @@
 
 
 ## <span id="2023猎头招聘"> 2023人才招聘 ⭐️高薪 (持续更新ing) </span>
-- 3.9 [人才招聘 | 深度学习研究员-北/上/深/杭-80~200w+](https://mp.weixin.qq.com/s/zFNLl8VIMBthsu6W6KYGwg)
 ### <span id="2023猎头招聘-北京">北京</span>
+- 3.9 [人才招聘 | 深度学习研究员-北/上/深/杭-80~200w+](https://mp.weixin.qq.com/s/zFNLl8VIMBthsu6W6KYGwg)
 - 3.8 [人才招聘 | NLP-预训练算法专家(P7)-80~200w+](https://mp.weixin.qq.com/s/u609Z72oHsd_CFp-070ndg)
 - 3.7 [人才招聘 | 量化研究员（机器学习方向）- 北/上/深/杭-80~200W+](https://mp.weixin.qq.com/s/5TxQFpNL2NebgIWDnScjww)
 - 3.6 [人才招聘 | NLP内容生成-对话-博士优先-60~200W+](https://mp.weixin.qq.com/s/KofLol8rnnxy3PhkHc5swA)
