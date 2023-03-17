@@ -6,6 +6,7 @@
     - [深圳](#2023内推-深圳)
     - [杭州](#2023内推-杭州)
     - [广州](#2023内推-广州)
+    - [南京](#2023内推-南京)
     - [苏州](#2023内推-苏州)
     - [成都](#2023内推-成都)
     - [海外](#2023内推-海外)
@@ -25,6 +26,10 @@
 
 ## <span id="2023内推">2023内推（日更...）</span>
 ### <span id="2023内推-北京">北京</span>
+- 3.16 [招聘 | 华为中央研究院-图计算-科研实习生-杭州/上海/南京/北京/深圳](https://mp.weixin.qq.com/s/J53XlSiMnLUOldbfo1Z68g)
+- 3.14 [招聘 | 秘塔科技-NLP算法工程师-社招/校招/可转正实习-北京](https://mp.weixin.qq.com/s/6m90bXEIlCedCYPZuwrr-w)
+- 3.14 [招聘 | 百度大搜-GNN/Transformer/图网络+问答+搜索-实习生/社招-北京](https://mp.weixin.qq.com/s/4oewWevOuapbtDTAelyx0w)
+- 3.10 [招聘 | 明兰世迦-CV-深度学习-算法科学家-社招-北京](https://mp.weixin.qq.com/s/851pG3J53YMoaMHR6pRfqw)
 - 3.9 [招聘 | 北京-内推-好未来-NLP算法实习生/博士后研究员](https://mp.weixin.qq.com/s/eWBL1K8l7FNPC3h6nnXIYg)
 - 3.9 [招聘 | 【急】百度-推荐算法策略工程师-社招-北京](https://mp.weixin.qq.com/s/9mTcqEvbsp3bL4esq3lXYg)
 - 3.8 [招聘 | 澜舟科技-北京-NLP-社招/实习-3个岗位-信息抽取/预训练方向](https://mp.weixin.qq.com/s/6vyKV1WcYuIl1q3xClsQtQ)
@@ -50,6 +55,7 @@
 - 2.6 [招聘 | 百度-机器学习/数据挖掘/NLP-北京](https://mp.weixin.qq.com/s/6AaSRlod7kFeSCUpMRs6rQ)
 
 ### <span id="2023内推-上海">上海</span>
+- 3.16 [招聘 | 华为中央研究院-图计算-科研实习生-杭州/上海/南京/北京/深圳](https://mp.weixin.qq.com/s/J53XlSiMnLUOldbfo1Z68g)
 - 3.8 [招聘 | 小红书-校招-NLP预训练方向-北京/上海](https://mp.weixin.qq.com/s/uAOC2vvkAy3HXS8jcACgYQ)
 - 3.7 [招聘 | 美团NLP中心-实习生-NLP](https://mp.weixin.qq.com/s/ZdC_xHs8ozdOgoG4s6eSlw)
 - 3.1 [招聘 | 抖音-推荐团队-推荐算法工程师](https://mp.weixin.qq.com/s/4QDegw93NQzJ2F_uJMOQ2w)
@@ -61,12 +67,15 @@
 - 2.17 [招聘 | 小红书招聘NLP算法工程师（社招，预训练方向-北京-上海）](https://mp.weixin.qq.com/s/BmDo14pC685CGX4MVLlX-g)
 
 ### <span id="2023内推-深圳">深圳</span>
+- 3.16 [招聘 | 华为中央研究院-图计算-科研实习生-杭州/上海/南京/北京/深圳](https://mp.weixin.qq.com/s/J53XlSiMnLUOldbfo1Z68g)
+- 3.12 [招聘 | 内推-粤港澳大湾区数字经济研究院-NLP/多模态算法实习生-深圳](https://mp.weixin.qq.com/s/rE8jbAvwmsaimHc4WP61gg)
 - 3.2 [招聘 | 腾讯-混元助手项目组-类ChatGPT产品-NLP-北京/深圳-内推](https://mp.weixin.qq.com/s/3zNKbx1VVHzUGeNhfRytPA)
 - 2.24 [招聘 | 腾讯优图(深圳)实验室实习生招聘](https://mp.weixin.qq.com/s/_4ZeQoq_ch110iev78ZC9g)
 - 2.22 [招聘 | 腾讯TEG机器学习平台预训练组实习生JD](https://mp.weixin.qq.com/s/mgUHycAfCGo16gGKiRMdBg)
 - 2.8 [内推 | 腾讯广告-高级广告算法工程师招聘-深圳](https://mp.weixin.qq.com/s/91-BWaa7k640T9vDoMLYxQ)
 
 ### <span id="2023内推-杭州">杭州</span>
+- 3.16 [招聘 | 华为中央研究院-图计算-科研实习生-杭州/上海/南京/北京/深圳](https://mp.weixin.qq.com/s/J53XlSiMnLUOldbfo1Z68g)
 - 3.7 [招聘 | 阿里达摩院-对话智能团队-研究实习生-北京/杭州-NLP/CV](https://mp.weixin.qq.com/s/Bi4DxqCszy-y3dcJ7JpdNA)
 - 3.3 [招聘 | 同花顺-问财团队-NLP/CV算法工程师-杭州内推](https://mp.weixin.qq.com/s/SY7DCtzmlR-luaXHcJHibQ)
 - 2.26 [招聘 | 阿里达摩院决策智能实验室招聘全职/博后/实习生-杭州/西雅图-内推](https://mp.weixin.qq.com/s/fOjY49zkPFLJLbumEulzCw)
@@ -77,6 +86,9 @@
 
 ### <span id="2023内推-广州">广州</span>
 - 2.3 [招聘 | 「数说故事」- NLP算法工程师 - 社招-广州](https://mp.weixin.qq.com/s/PwIXUfm8jK-Ogq5ZkIPcTw)
+
+### <span id="2023内推-南京">南京</span>
+- 3.16 [招聘 | 华为中央研究院-图计算-科研实习生-杭州/上海/南京/北京/深圳](https://mp.weixin.qq.com/s/J53XlSiMnLUOldbfo1Z68g)
 
 ### <span id="2023内推-苏州">苏州</span>
 - 2.20 [招聘 | 微软小冰-实习生-NLP、CV等算法岗](https://mp.weixin.qq.com/s/ORcyGG7jLIJD0_HAyzI2Qg)
@@ -91,6 +103,7 @@
 
 ## <span id="2023猎头招聘"> 2023人才招聘 ⭐️高薪 (持续更新ing) </span>
 ### <span id="2023猎头招聘-北京">北京</span>
+- 3.11 [人才招聘 | 机器学习平台高级技术专家(P8)-京/沪/深/杭-80~200w+](https://mp.weixin.qq.com/s/kB5PPzo9CmFFHultLJeotw)
 - 3.9 [人才招聘 | 深度学习研究员-北/上/深/杭-80~200w+](https://mp.weixin.qq.com/s/zFNLl8VIMBthsu6W6KYGwg)
 - 3.8 [人才招聘 | NLP-预训练算法专家(P7)-80~200w+](https://mp.weixin.qq.com/s/u609Z72oHsd_CFp-070ndg)
 - 3.7 [人才招聘 | 量化研究员（机器学习方向）- 北/上/深/杭-80~200W+](https://mp.weixin.qq.com/s/5TxQFpNL2NebgIWDnScjww)
@@ -100,6 +113,8 @@
 - 3.2 [猎头招聘 | NLP研究员-强化学习专家－需要6个博士/硕士-最高200W年薪-北京](https://mp.weixin.qq.com/s/LXG-dvvaedPmWB-hoEUQtg)
 
 ### <span id="2023猎头招聘-上海"></span>上海
+- 3.17 [人才招聘 | 风控算法工程师-上海/新加坡-60~200w+](https://mp.weixin.qq.com/s/25OdghJ_m911IFCMXPveeA)
+- 3.11 [人才招聘 | 机器学习平台高级技术专家(P8)-京/沪/深/杭-80~200w+](https://mp.weixin.qq.com/s/kB5PPzo9CmFFHultLJeotw)
 - 3.9 [人才招聘 | 深度学习研究员-北/上/深/杭-80~200w+](https://mp.weixin.qq.com/s/zFNLl8VIMBthsu6W6KYGwg)
 - 3.8 [人才招聘 | NLP-预训练算法专家(P7)-80~200w+](https://mp.weixin.qq.com/s/u609Z72oHsd_CFp-070ndg)
 - 3.7 [人才招聘 | 量化研究员（机器学习方向）- 北/上/深/杭-80~200W+](https://mp.weixin.qq.com/s/5TxQFpNL2NebgIWDnScjww)
@@ -107,12 +122,14 @@
 - 3.3 [猎头招聘 | 机器学习研究员-沪/京/深/杭-60~200W+薪资](https://mp.weixin.qq.com/s/t0KlFoKlHm0DMReI6Em7OA)
 
 ### <span id="2023猎头招聘-深圳"></span>深圳
+- 3.11 [人才招聘 | 机器学习平台高级技术专家(P8)-京/沪/深/杭-80~200w+](https://mp.weixin.qq.com/s/kB5PPzo9CmFFHultLJeotw)
 - 3.9 [人才招聘 | 深度学习研究员-北/上/深/杭-80~200w+](https://mp.weixin.qq.com/s/zFNLl8VIMBthsu6W6KYGwg)
 - 3.8 [人才招聘 | NLP-预训练算法专家(P7)-80~200w+](https://mp.weixin.qq.com/s/u609Z72oHsd_CFp-070ndg)
 - 3.7 [人才招聘 | 量化研究员（机器学习方向）- 北/上/深/杭-80~200W+](https://mp.weixin.qq.com/s/5TxQFpNL2NebgIWDnScjww)
 - 3.3 [猎头招聘 | 机器学习研究员-沪/京/深/杭-60~200W+薪资](https://mp.weixin.qq.com/s/t0KlFoKlHm0DMReI6Em7OA)
 
 ### <span id="2023猎头招聘-杭州"></span>杭州
+- 3.11 [人才招聘 | 机器学习平台高级技术专家(P8)-京/沪/深/杭-80~200w+](https://mp.weixin.qq.com/s/kB5PPzo9CmFFHultLJeotw)
 - 3.9 [人才招聘 | 深度学习研究员-北/上/深/杭-80~200w+](https://mp.weixin.qq.com/s/zFNLl8VIMBthsu6W6KYGwg)
 - 3.8 [人才招聘 | NLP-预训练算法专家(P7)-80~200w+](https://mp.weixin.qq.com/s/u609Z72oHsd_CFp-070ndg)
 - 3.7 [人才招聘 | 量化研究员（机器学习方向）- 北/上/深/杭-80~200W+](https://mp.weixin.qq.com/s/5TxQFpNL2NebgIWDnScjww)
@@ -125,4 +142,5 @@
 ### <span id="2023猎头招聘-成都"></span>成都
 
 ### <span id="2023猎头招聘-海外"></span>海外
+- 3.17 [人才招聘 | 风控算法工程师-上海/新加坡-60~200w+](https://mp.weixin.qq.com/s/25OdghJ_m911IFCMXPveeA)
 
