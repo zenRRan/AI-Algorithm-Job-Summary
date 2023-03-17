@@ -79,7 +79,7 @@
 ### <span id="2023内推-深圳">深圳</span>
 - 3.16 [知识星球 | 达摩院自然语言智能-生物医学团队2024届春招实习生招聘](https://t.zsxq.com/0cCTJbqLE)
 - 3.16 [招聘 | 华为中央研究院-图计算-科研实习生-杭州/上海/南京/北京/深圳](https://mp.weixin.qq.com/s/J53XlSiMnLUOldbfo1Z68g)
-- - 3.14 [[知识星球 | 阿里达摩院开放视觉智能实验室招聘研究型实习生/2023届春招](https://t.zsxq.com/0cV3OoEhJ)
+- 3.14 [知识星球 | 阿里达摩院开放视觉智能实验室招聘研究型实习生/2023届春招](https://t.zsxq.com/0cV3OoEhJ)
 - 3.12 [招聘 | 内推-粤港澳大湾区数字经济研究院-NLP/多模态算法实习生-深圳](https://mp.weixin.qq.com/s/rE8jbAvwmsaimHc4WP61gg)
 - 3.2 [招聘 | 腾讯-混元助手项目组-类ChatGPT产品-NLP-北京/深圳-内推](https://mp.weixin.qq.com/s/3zNKbx1VVHzUGeNhfRytPA)
 - 2.24 [招聘 | 腾讯优图(深圳)实验室实习生招聘](https://mp.weixin.qq.com/s/_4ZeQoq_ch110iev78ZC9g)
@@ -143,7 +143,7 @@
 - 3.9 [人才招聘 | 深度学习研究员-北/上/深/杭-80~200w+](https://mp.weixin.qq.com/s/zFNLl8VIMBthsu6W6KYGwg)
 - 3.8 [人才招聘 | NLP-预训练算法专家(P7)-80~200w+](https://mp.weixin.qq.com/s/u609Z72oHsd_CFp-070ndg)
 - 3.7 [人才招聘 | 量化研究员（机器学习方向）- 北/上/深/杭-80~200W+](https://mp.weixin.qq.com/s/5TxQFpNL2NebgIWDnScjww)
-- 3/4 [猎头招聘 | NLP/多模态/机器学习/AIGC四个岗位-京/沪-80~200+W](https://mp.weixin.qq.com/s/IDPha2GyLgJZaX5OCrxeGg)
+- 3.4 [猎头招聘 | NLP/多模态/机器学习/AIGC四个岗位-京/沪-80~200+W](https://mp.weixin.qq.com/s/IDPha2GyLgJZaX5OCrxeGg)
 - 3.3 [猎头招聘 | 机器学习研究员-沪/京/深/杭-60~200W+薪资](https://mp.weixin.qq.com/s/t0KlFoKlHm0DMReI6Em7OA)
 
 ### <span id="2023猎头招聘-深圳"></span>深圳
