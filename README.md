@@ -120,8 +120,9 @@
 - 最新入门和进阶学习资料
 - NLP、搜广推、CV等AI岗位招聘信息
 
-<img src="img/知识星球.jpg" width = "200" height = "200" alt="都是最新内容呦~" align=center />
-
+<center>
+<img src="img/知识星球.jpg" width = "200" height = "240" alt="都是最新内容呦~" align=center />
+</center>
 ---
 
 ## <span id="2023猎头招聘"> 2023人才招聘 ⭐️高薪 (持续更新ing) </span>
